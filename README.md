@@ -1,2 +1,4 @@
 # assignment-1-neog-camp
- custom cli app given as assignment
+ Node Js packages used are-
+ - read;ine-sync
+ - chalk
